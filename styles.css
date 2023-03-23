@@ -1,0 +1,30 @@
+body{
+    background-image:url(https://www.hoopswallpapers.com/wallpapers/2020/thank-you-kobe-wallpaper-preview.jpg) ;
+    background-position: center;
+    Background-attachment: fixed;
+    background-size: cover;
+  
+  
+  }
+  .image{
+    width: 800px;
+     text-align: center;
+    display: block;
+    justify-content: center;
+     margin-left: auto;
+     margin-right:auto;
+     max-width: 100%;
+  }
+  figcaption{
+    color: white;
+    font-family: verdana;
+    text-align: center;
+  }
+  .tribute-info{
+    color: white;
+    font-family: verdana;
+  }
+  article{
+    width: 60%;
+    margin: 0 auto;
+  }
